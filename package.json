@@ -1,0 +1,12 @@
+{
+  "name": "midnight-takeover",
+  "version": "1.0.0",
+  "description": "idk what im doing",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
