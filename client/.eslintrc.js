@@ -6,6 +6,8 @@ module.exports = {
   },
   rules: {
     "linebreak-style": [`error`, `unix`],
+    "no-unused-vars": [`warn`],
+    "no-cond-assign": [`off`],
     semi: [`error`, `always`],
     quotes: [`error`, `backtick`],
     indent: [`error`, 2],
